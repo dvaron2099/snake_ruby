@@ -1,5 +1,5 @@
 # snake_ruby
-This game was made it with ruby2d
+This game was made it with ruby2d and minitest
 
 You must go to:
 https://www.ruby2d.com/learn/get-started/
